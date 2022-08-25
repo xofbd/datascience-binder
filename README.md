@@ -32,5 +32,3 @@ and pip-compile will generate a requirements.txt with all the strict packages an
 That way, you only need to specify what you actually know you need,
 but you also get a snapshot of your environment.
 
-In this example we include the library `seaborn` which will be installed in
-the environment, and our notebook uses it to plot a figure.
